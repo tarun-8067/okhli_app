@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <string name="app_name">okhlii</string>
+    <string name="default_web_client_id" translatable="false">259249234282-1jol54jf9i12u48l4mf17br9oakafbnr.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">2320992621423623</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="gcm_defaultSenderId" translatable="false">259249234282</string>
+    <string name="google_api_key" translatable="false">AIzaSyCUxm9jr75KYTN1EazTCnZZHWWxgplUgNw</string>
+    <string name="google_app_id" translatable="false">1:259249234282:android:f542ed09fedf1aeba8c513</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUxm9jr75KYTN1EazTCnZZHWWxgplUgNw</string>
+    <string name="google_storage_bucket" translatable="false">okhli-firespace.appspot.com</string>
+    <string name="project_id" translatable="false">okhli-firespace</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+</resources>

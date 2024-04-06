@@ -1,5 +1,5 @@
 {
-  "name": "okhli",
+  "name": "com.okhli",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -61,6 +61,15 @@
     "node": ">=18"
   },
   "main": "index.js",
-  "repository": "https://github.com/drdata1010/okhli.git",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdata1010/okhli.git"
+  },
+  "license": "MIT",
+  "description": "This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).",
+  "bugs": {
+    "url": "https://github.com/drdata1010/okhli/issues"
+  },
+  "homepage": "https://github.com/drdata1010/okhli#readme",
+  "author": ""
 }
